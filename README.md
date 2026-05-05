@@ -1,5 +1,7 @@
 # Materials
-Kokousten diat kansiossa /docs
+Sisältö:
+- Kokousten diat kansiossa /docs
+- Demomateriaalit kansiossa /demo
 
 Lisätty 5.5.2026
 - demo / testi_huhtikuu26.cs
